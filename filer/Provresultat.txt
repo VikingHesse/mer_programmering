@@ -17,29 +17,3 @@ Erik Eriksson 31
 Gore Bord 55
 Jakob Kallander 65
 Fredrika Ulven 10
-
-F 
-Fredrika Ulven 10
-Sven Erik Karlsson 13
-E 
-Adam Gustafsson 25
-Emil Johansson 23
-Hanna Karlsson 23
-Håkan Håkanson 24
-Ida Håkansson 23
-D 
-Björn Björnsson 39
-Bose Bosseson 32
-Emma Boden 32
-Erik Eriksson 31
-Jonas Jonasson 31
-Karl Karlsson 32
-Sven Erik Lundin 39
-C 
-Ella Ester 41
-Johan Johansson 42
-Ove Karlsten 41
-B 
-Gore Bord 55
-A 
-Jakob Kallander 65
